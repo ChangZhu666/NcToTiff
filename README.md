@@ -69,7 +69,7 @@ py -3.12 -m venv .venv
 
 ## 打包
 
-默认生成 `dist\NCStudio\NCStudio.exe`，发布时需要带上整个 `dist\NCStudio` 文件夹：
+默认生成 `dist\NCStudio\NCStudio.exe`
 
 ```powershell
 .\build.ps1
